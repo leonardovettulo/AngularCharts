@@ -1,4 +1,6 @@
-# Graficos
+# Charts for Angular
+
+This is a test for using angular charts library (ng2-charts) derived from charts.js.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
